@@ -7,7 +7,7 @@ npm create vite@latest
 npm run dev
 
 # tailwind configurartion
- find the offical docs for setup here :
+ offical docs for setup :
  https://tailwindcss.com/docs/guides/vite
 
 
