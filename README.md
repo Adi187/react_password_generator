@@ -7,9 +7,8 @@ npm create vite@latest
 npm run dev
 
 # tailwind configurartion
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
-Edit the tailwind.config.js file as shown : https://tailwindcss.com/docs/guides/vite
+ find the offical docs for setup here :
+ https://tailwindcss.com/docs/guides/vite
 
 
 
